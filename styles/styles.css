@@ -124,3 +124,24 @@ h1, h2 {
         gap: 20px;
     }
 }
+@media (max-width: 480px) {
+    .apresentacao {
+        padding: 10% 5%;
+    }
+
+    .apresentacao__conteudo__titulo {
+        font-size: 2.2rem;
+    }
+
+    .apresentacao__conteudo__subtitulo {
+        font-size: 1.5rem;
+    }
+
+    .apresentacao__conteudo__texto {
+        font-size: 1rem;
+    }
+
+    .cabecalho__Menu__links {
+        font-size: 1rem;
+    }
+}
